@@ -604,6 +604,7 @@ header .navbar-default .navbar-header {
 	text-align: center;
 	padding-bottom: 30px;
 	min-height: 280px;
+	max-height: 300px;
 	margin-bottom: 30px;
 	position: relative;
 	border-bottom: solid #007dea 3px;
